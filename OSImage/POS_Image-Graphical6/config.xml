@@ -23,7 +23,7 @@
         <type boot="oemboot/suse-SLES12" filesystem="ext3" image="oem" installiso="true"></type>
     </preferences>
     <users group="root">
-      <user pwd="STYzCYmQOaXeA" home="/root" name="root"/>
+      <user password="STYzCYmQOaXeA" home="/root" name="root" shell="/bin/bash"/>
     </users>
     
     <!--    CUSTOM REPOSITORY -->
